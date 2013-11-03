@@ -1,0 +1,19 @@
+PODS:
+  - AFNetworking (1.3.3)
+  - BlocksKit (1.8.3):
+    - libffi
+  - BlockTypeDescription (0.1.0)
+  - libffi (3.0.13)
+
+DEPENDENCIES:
+  - AFNetworking (= 1.3.3)
+  - BlocksKit
+  - BlockTypeDescription
+
+SPEC CHECKSUMS:
+  AFNetworking: 0700ec7a58c36ad217173e167f6e4df7270df66b
+  BlocksKit: 27257f9cbbec0ea98c80ba83cc2ea7111ae62eb2
+  BlockTypeDescription: f4fa56e7195628575abc4cc076f67a7bea3d3bdc
+  libffi: 64ef39353e747bb2b25e1026afd96a157bf9231c
+
+COCOAPODS: 0.27.1
